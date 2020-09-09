@@ -1,4 +1,4 @@
-#Projeto de uma simples calculadora utilizando ReactJS
+# Projeto de uma simples calculadora utilizando ReactJS
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
