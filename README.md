@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Executando a Aplicação:
     Abra o local do arquivo
-  ### Instalando as dependências do projeto.
+  ##### Instalando as dependências do projeto.
   $ yarn # ou npm install
   
   #Inicie a aplicação web
