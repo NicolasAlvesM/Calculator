@@ -1,5 +1,5 @@
 # Projeto de uma simples calculadora utilizando ReactJS
-Projeto feito com o intuito de aprender sobre conceitos do React como componetes,props e estados.
+Projeto feito com o intuito de aprender sobre conceitos do React como componentes,props e estados.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
