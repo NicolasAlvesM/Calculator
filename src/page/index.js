@@ -6,14 +6,18 @@ function Calculator(){
     const operationsArray=['/','+','-','*']
     const [operation,setOperation]=useState(0)
     function typeOperation(e){
-        if(operation)
+        if(operation&&operation!=='erro')
          setOperation(operation+e.target.value)
          else if(!operationsArray.includes(e.target.value)&&e.target.value!=='.')
          setOperation(e.target.value)
     }
     function handleOperation(){
-        setOperation(eval(operation))
-    }
+        try {
+            setOperation(eval(operation))
+        } catch (e) {
+            setOperation('erro')
+            }
+        }
     function limpar(){
         setOperation(0)
     }
