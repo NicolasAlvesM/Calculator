@@ -1,7 +1,13 @@
 # Projeto de uma simples calculadora utilizando ReactJS
 Projeto feito com o intuito de aprender sobre conceitos do React como componentes,props e estados.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+* [React](https://reactjs.org/)
+* [JavaScript](https://www.javascript.com/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
 
 ## Executando a Aplicação:
     Abra o local do arquivo
