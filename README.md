@@ -9,7 +9,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
-## Executando a Aplicação:
+## Executando a Aplicação
+### Pré-requisitos
+- É necessário possuir o Node.js instalado no computador
+- Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
+  #### Aplicação
     Abra o local do arquivo
   ##### #Instalando as dependências do projeto.
   $ yarn # ou npm install
