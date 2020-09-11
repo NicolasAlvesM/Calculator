@@ -9,6 +9,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
+## Screenshot
+![Screenshot](https://github.com/NicolasMorenoAlves/Calculator/blob/master/assets/img1.png)
 ## Executando a Aplicação
 ### Pré-requisitos
 - É necessário possuir o Node.js instalado no computador
