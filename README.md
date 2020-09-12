@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Pré-requisitos
 - É necessário possuir o Node.js instalado no computador
 - Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
+```
   #### Aplicação
     Abra o local do arquivo
   ##### #Instalando as dependências do projeto.
@@ -23,6 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   ##### #Inicie a aplicação web
   
   $ yarn start # ou npm start
+```
 
 ## Learn More
 
